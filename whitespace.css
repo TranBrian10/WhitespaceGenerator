@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+}
+
+#string_input, #generated_whitespace {
+    width: 40%;
+    margin: 20px;
+}
+
+#generate_button {
+    margin-left: 20px;
+}
