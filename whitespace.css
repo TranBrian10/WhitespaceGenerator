@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 
-#string_input, #generated_whitespace {
+#input_textarea, #output_textarea {
     width: 40%;
     margin: 20px;
 }
